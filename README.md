@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedBukha
 - 👀 I’m interested in enjoying life
-- 🌱 I’m currently learning Python/Unity C#
+- 🌱 I’m currently learning Python/Unity C#/ Web development
 - 💞️ I’m looking to collaborate on Intersting projects
 - 📫 How to reach me Discord: Ahmed_Bukha#2001
 
